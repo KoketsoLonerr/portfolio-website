@@ -1,4 +1,3 @@
-Sure, here's a basic README.md template for your portfolio website:
 
 ```
 # Portfolio Website
