@@ -1,26 +1,52 @@
 
 ```
-# Portfolio Website
+# 🧑🏾‍💻 M. Marble Tjatji — Portfolio Website
 
-This is a portfolio website created for showcasing the work and skills of M. Marble Tjatji, a software developer.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2829fcac-b910-4f62-82c6-c43f8fcc86c3/deploy-status)](https://app.netlify.com/sites/lonerrtech/deploys)
+[![CI/CD](https://github.com/KoketsoLonerr/portfolio-website/actions/workflows/deploy.yml/badge.svg)](https://github.com/yourusername/your-repo/actions)
 
-## Overview
+A sleek and professional portfolio for showcasing the work, story, and skills of **M. Marble Tjatji** — crafted with care and powered by modern tools.
 
-This website serves as a platform for M. Marble Tjatji to display their projects, skills, and contact information. It provides visitors with an overview of their expertise and accomplishments in the field of software development.
+---
 
-## Features
+## 🌐 Overview
 
-- Home: Introduces M. Marble Tjatji and provides a brief overview of their profession.
-- About: Presents detailed information about M. Marble Tjatji, including their background, education, and passion for software development.
-- Skills: Highlights M. Marble Tjatji's professional skills and areas of expertise.
-- Projects: Showcases a selection of projects completed by M. Marble Tjatji, along with links to their GitHub repositories.
-- Contact: Provides various ways to get in touch with M. Marble Tjatji, including social media links and email address.
+This site features:
 
+- 🧠 Personal bio & values  
+- 💻 Technical skills and tools  
+- 🧱 Projects with GitHub links  
+- 📬 Contact form and social media  
 
-## Credits
+Built with **HTML, Bulma CSS, GitHub Actions**, and deployed using **Netlify**.
 
-- Icons: [Boxicons](https://boxicons.com/)
-- CSS Framework: [Bulma](https://bulma.io/)
+---
+
+## 🖼️ Preview
+
+![Website Screenshot](screenshot.png)  
+> 🔁 Replace this with a screenshot of your live site.
+
+---
+
+## ⚙️ Tech Stack
+
+- **HTML5 & CSS3**
+- **Bulma CSS**
+- **Boxicons**
+- **GitHub Actions (CI/CD)**
+- **Netlify**
+
+---
+
+## 🚀 CI/CD Workflow
+
+Every time you push to `main`, GitHub Actions:
+
+1. Installs dependencies  
+2. Builds your project  
+3. Deploys to Netlify automatically ✅
+
 
 ## License
 
